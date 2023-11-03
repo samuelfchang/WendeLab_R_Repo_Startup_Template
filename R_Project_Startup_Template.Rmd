@@ -1,0 +1,30 @@
+---
+title: "R Project Startup Template"
+author: "Samuel Chang"
+date: '`r format(Sys.time(), "Last modified: %d %b %Y")`'
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: '5'
+layout: page
+subtitle: Hello!
+affiliation: UAB
+editor_options:
+  chunk_output_type: inline
+---
+Description: 
+what happened upstream of this code
+So, for this; Ben helped with all the needed code/formatting for this 
+
+# 1. Starting Outline:
+```{r}
+#in outline, starting coding chunk
+```
+
+# 2. Outline 2
+```{r}
+# Chunk2
+```
+
+

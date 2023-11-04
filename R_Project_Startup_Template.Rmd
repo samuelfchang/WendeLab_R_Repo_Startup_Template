@@ -15,7 +15,7 @@ editor_options:
 ---
 Description: 
 what happened upstream of this code
-So, for this; Ben helped with all the needed code/formatting for this 
+So, for this; Ben helped with all the needed code/formatting for this
 
 # 1. Starting Outline:
 ```{r}
@@ -24,7 +24,7 @@ So, for this; Ben helped with all the needed code/formatting for this
 
 # 2. Outline 2
 ```{r}
-# Chunk2
+# Chunk
 ```
 
 

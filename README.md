@@ -6,3 +6,4 @@
  2. R project created under the repo. working directory
  3. .rmd created with for R code (with template header)
  Note: to show hidden files on Mac: cmd + shift + period key
+ tip: cmd + shift + c = quick comment/uncomment chunks

@@ -15,7 +15,7 @@ editor_options:
 ---
 Description: 
 what happened upstream of this code
-So, for this; Ben helped with all the needed code/formatting for this
+Thank you Ben for all your help with this!
 
 # 1. Starting Outline:
 ```{r}

@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Input Folder
+2_input
+
+# Output Folder
+3_output
+
+# Results Folder
+4_results
